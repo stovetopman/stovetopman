@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Jasper 👋
 
-<!--
-**stovetopman/stovetopman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things that sit where code meets product. Currently looking for **new grad software engineering roles for 2027**.
 
-Here are some ideas to get you started:
+### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**University of British Columbia**, Combined Major in Business and Computer Science.
+
+### 💼 Experience
+
+- **Helcim**, Software Development Intern, Risk Team
+- **Bytedance**, Product Operations & Strategy Intern, TikTok Shop US
+
+### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/jaspermao0705) · jaspermao0705@gmail.com · [Portfolio](https://stovetopman.github.io)
