@@ -8,7 +8,7 @@ I like building things that sit where code meets product. Currently looking for 
 
 ### 💼 Experience
 
-- **Helcim**, Software Development Intern, Risk Team
+- **Helcim**, Full Stack Software Development Intern, Risk Team
 - **Bytedance**, Product Operations & Strategy Intern, TikTok Shop US
 
 ### 📫 Contact
